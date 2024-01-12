@@ -1,3 +1,3 @@
 # first-repo
 first git repo
-\n Author tanu
+<br> Author tanu
